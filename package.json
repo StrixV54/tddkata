@@ -2,7 +2,7 @@
   "name": "tddkata",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "test": "jest",
     "start": "node index.js"
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^29.7.0"
   }
 }
